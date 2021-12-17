@@ -10,6 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-Adil091&label=Profile+Views)
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Adil091/Adil_91?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Adil091?style=social">
 
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 <p align="center">
