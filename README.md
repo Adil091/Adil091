@@ -14,12 +14,16 @@
 
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 <p align="center">
+    
+<a target="_blank">
+  <img align="right" height="190" width="280" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+</a>
   
 <p align="left">
   <em>
-    This is ME, Adil Mulla, a <b>graduate</b>  from <a href="https://www.kbpcoes.edu.in/"> <b>Karmaveer Bhaurao Patil College of Engineering</b>, Satara</a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+   This is ME, Adil Mulla, a <b>graduate</b>  from <a href="https://www.kbpcoes.edu.in/"> <b>Karmaveer Bhaurao Patil College of Engineering</b>,Satara</a>.
+   <br>A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a    <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,
+   <br>who is <b>obsessed</b>with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
@@ -30,11 +34,10 @@
 <hr>
 <p align="left">
 <a href="https://github.com/Adil091">
-<img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adil091&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
-<img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adil091&layout=compact&langs_count=8&theme=algolia"/>
+<img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adil091&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
+<img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adil091&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 
 <hr>
 
@@ -53,11 +56,7 @@
 |`S`| | | | | |`M`| | |[📸](https://www.instagram.com/adilmulla091/)| |
 |`M`| | | | | | | | | | |
 
-<hr>
 
-
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 <hr>
 <i>Random dev joke for you! </i><br>
@@ -73,18 +72,10 @@
 <hr>
 
 
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 
 
-
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
-</p>
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
-</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -290,3 +281,13 @@ Last Edited on: 17/12/2021
 ##<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adil091&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+##![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Adil091&theme=react-dark&hide_border=true&area=true)
+
+<p align="center">
+  <a href='https://github.com/Adil091/'>
+    <img width="75%" src="https://github.com/Adil091/Adil091/blob/master/metrics.svg"/>
+    <img src="https://github.com/Adil091/Adil091/blob/master/metrics.detailed.svg" width="75%"/>
+  </a>
+</p>
+
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
