@@ -64,7 +64,7 @@
 
 
 
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![Github Banner](https://github.com/Adil091/Adil_91/blob/main/readme%20lang.png)
 
 
 
