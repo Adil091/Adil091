@@ -351,4 +351,4 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 [<img alt="email" src="https://img.shields.io/badge/Email%20me-tanaytoshniwal98%40gmail.me-orange" />](mailto:tanaytoshniwal98@gmail.me) 
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tanaytoshniwal?label=Follow%20Me&style=social" />
+
