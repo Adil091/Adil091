@@ -21,17 +21,10 @@
   
 <p align="left">
   <em>
- "HELLO WORLD",This is Me <b>Adil Mulla</b> a <i>CSE</><i> <b>graduate</b> from India </a> . A budding software devloper and a competitve programming Enthusiast who is passionate to give back to community by contributing  in open-source  that make a real diffrence in peoples life using his skills.
-      
- This is ME, Adil Mulla, .
- <br>A budding <b> Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a    <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,
- <br>who is <b>obsessed</b>with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b><img    src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
- <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+ "HELLO WORLD",This is Me <b>Adil Mulla</b> a <i>CSE</><i> <b>graduate</b> from India </a> . A budding software devloper and a competitve programming Enthusiast.  <br>who is <b>obsessed</b>with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b>and <b>excel</b> and passionate to give back to    community by contributing  in open-source  that make a real diffrence in peoples life using his skills.    
   </em> 
   <br>
-
-
-
+  
 <hr>
 
 🌟 STAR THE REPOS IF YOU LIKE 🌟
