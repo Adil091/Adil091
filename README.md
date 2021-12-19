@@ -35,6 +35,7 @@
 
 </p>
 
+
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adil091&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=Adil091&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 |---|---|
 
@@ -269,7 +270,7 @@ Last Edited on: 17/12/2021
   
 
 
-##![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Adil091&theme=react-dark&hide_border=true&area=true)
+
 
 <p align="center">
   <a href='https://github.com/Adil091/'>
