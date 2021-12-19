@@ -21,7 +21,7 @@
   
 <p align="left">
 <em>
-"HELLO WORLD",This is Me <b>Adil Mulla</b> a <i>CSE</><i> <b>graduate</b> from India </a> . A budding software devloper and a competitve programming Enthusiast who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel</b>. I am passionate to give back to community by contributing  in open-source  that make a real diffrence in peoples life using my skills.    
+"HELLO WORLD",This is Me <b>Adil Mulla</b> a <i>CSE</><i> <b>graduate</b> from India </a> . A budding software devloper and a competitve programming Enthusiast who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel</b>. I am passionate to give back to society by contributing  in open-source  that make a real diffrence in peoples life using my skills.    
 </em> 
 <br>
 
@@ -32,6 +32,10 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adil091&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=Adil091&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 |---|---|
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adil091&layout=compact&langs_count=8&theme=algolia"/>|
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adil091&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=Adil091&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+|---|---|
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adil091&layout=compact&langs_count=8&theme=algolia"/>|<img width="75%" height="50%" src="https://activity-graph.herokuapp.com/graph?username=Adil091&theme=react-dark&hide_border=true&area=true"/>
 
 <hr>
 
@@ -275,9 +279,6 @@ Last Edited on: 17/12/2021
 
 
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adil091&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=Adil091&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-|---|---|
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adil091&layout=compact&langs_count=8&theme=algolia"/>|<img width="75%" height="50%" src="https://activity-graph.herokuapp.com/graph?username=Adil091&theme=react-dark&hide_border=true&area=true"/>
 
 <h2 align="center"><u>My Best Works</u></h2>
 
