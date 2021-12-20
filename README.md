@@ -132,6 +132,9 @@
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML MARKUP"/> 
   </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML MARKUP"/> 
+  </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"alt="javascript"/>
   </a>
@@ -263,8 +266,10 @@
     <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="SalesForce"/>
   </a>
   <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
+    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> 
+  </a> 
+     <a href="https://www.tutorialspoint.com/amazon_web_services/index.htm" target="_blank"> 
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> 
   </a> 
 </p>
 
@@ -342,8 +347,88 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt= "Windows"/>
   </a>
    </p>
+   
+   <h3 align="center">Tools</h3>
+<p align="center">
+  <a href="https://www.adobe.com/in/creativecloud.html?sdid=SL4KMHQ2&mv=search&ef_id=Cj0KCQiA8ICOBhDmARIsAEGI6o2xmYicRbaUKRLs5APE3uslY6FG9sxpeiqjcCc7M_J5AKpF1YT_DdIaAmGqEALw_wcB:G:s&s_kwcid=AL!3085!3!473191825401!e!!g!!adobe%20creative%20cloud!221174708!17525769428" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Cloud"/>
+</a>
+   <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</a>
+    <a href="https://www.office.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Virtual Box"/>
+</a>
+    <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/>
+</a>
+    <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</a>
+    <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+</a>
+    <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+</a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</a>
+   <a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+<a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
 
-
+</p>
 
 # Connect with Me:
 
