@@ -170,28 +170,6 @@
  </p>
 
 
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  
-  
-  <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
-  </a>
-    <a href="https://spring.io/" target="_blank"> 
-      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
-  </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
-  
-  
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-      alt="nginx"/> 
-  </a> 
-</p>
-
 <h3 align="center">Database</h3>
 <p align="center">
   <a href="https://www.tutorialspoint.com/mongodb/index.htm" target="_blank">
