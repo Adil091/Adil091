@@ -192,6 +192,9 @@
 
 <h3 align="center">Database</h3>
 <p align="center">
+  <a href="https://www.tutorialspoint.com/mongodb/index.htm" target="_blank">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
+  </a>
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="postgresql"/> 
