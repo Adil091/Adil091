@@ -348,6 +348,94 @@
   </a>
    </p>
    
+   
+   <h3 align="center">Frameworks, Platforms and Libraries :</h3>
+    <p align="center"> 
+    
+  <a href="https://www.tensorflow.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+    <a href="https://www.javatpoint.com/dialogflow" target="_blank">
+    <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="DialogFlow"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Keras"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Numpy"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Pandas"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Matlab"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="PyTorch"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Scikit-Learn"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Scipy"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Tabula"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Google Analytics"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Flask"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="flutter"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Django"/>
+</a>
+        <a href="" target="_blank">
+    <img src="" alt="Anjular js"/>
+</a>
+        <a href="" target="_blank">
+    <img src="" alt="Haddop"/>
+</a>
+        <a href="" target="_blank">
+    <img src="" alt="Spark"/>
+</a>
+        <a href="" target="_blank">
+    <img src="" alt="AR Core"/>
+</a>
+        <a href="" target="_blank">
+    <img src="" alt="Unity"/>
+</a>
+        <a href="" target="_blank">
+    <img src="" alt="Jquery"/>
+</a>
+        <a href="" target="_blank">
+    <img src="" alt="Redux"/>
+</a>
+        <a href="" target="_blank">
+    <img src="" alt=""/>
+</a>    <a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+        <a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+    </p>
+   
+   
+   
    <h3 align="center">Server :</h3>
     <p align="center"> 
   <a href="https://www.apache.org/" target="_blank"> 
