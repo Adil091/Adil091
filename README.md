@@ -173,10 +173,7 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
-  </a>
+  
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
@@ -352,26 +349,26 @@
     <a href="https://scikit-learn.org/stable/" target="_blank">
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="Tabula"/>
+    <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tabula"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="Nodejs"/>
+    <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> 
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="Google Analytics"/>
+    <a href="https://analytics.google.com/analytics/web/provision/#/provision" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="Flask"/>
+    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="flutter"/>
+    <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="Django"/>
+    <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </a>
-        <a href="" target="_blank">
-    <img src="" alt="Anjular js"/>
+    <a href="https://angularjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Anjular.js"/>
 </a>
         <a href="" target="_blank">
     <img src="" alt="Haddop"/>
@@ -419,6 +416,18 @@
     <a href="" target="_blank">
     <img src="" alt="Socket io"/>
       </a>  
+    <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="reactjs"/> 
+      </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="reactjs"/> 
+      </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
+      alt="reactjs"/> 
+      </a>
     <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="reactjs"/> 
