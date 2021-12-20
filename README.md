@@ -309,9 +309,6 @@
     <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="Matlab"/>
-</a>
     <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
 </a>
@@ -342,16 +339,7 @@
     <a href="https://angularjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Anjular.js"/>
 </a>
-        <a href="" target="_blank">
-    <img src="" alt="Haddop"/>
-</a>
-        <a href="" target="_blank">
-    <img src="" alt="Spark"/>
-</a>
-        <a href="" target="_blank">
-    <img src="" alt="AR Core"/>
-</a>
-        <a href="" target="_blank">
+   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </a>
         <a href="https://jquery.com/" target="_blank">
