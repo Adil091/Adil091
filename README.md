@@ -355,7 +355,7 @@
   </a>
     </a>
 <a href="https://www.jenkins.io/" target="_blank">
-    <img src="//img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkin server"/>
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkin server"/>
 </a>
 <a href="https://www.nginx.com/" target="_blank">
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt=""/>
