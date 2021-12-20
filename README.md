@@ -169,24 +169,7 @@
 
  </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-      
-  </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
-  </a>
-  <a href="https://bulma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
-      alt="bulma"/>
-  </a>
-  
-  
-  </a>
-   
-  
-  
-</p>
+
 
 <h3 align="center">Backend</h3>
 <p align="center">
@@ -349,8 +332,8 @@
     <img src="" alt="Keras"/>
 </a>
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+    </a>
       
     <a href="" target="_blank">
     <img src="" alt="Numpy"/>
@@ -406,7 +389,7 @@
         <a href="" target="_blank">
     <img src="" alt="Unity"/>
 </a>
-        <<a href="https://jquery.com/" target="_blank">
+        <a href="https://jquery.com/" target="_blank">
     <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
   </a>
        <a href="https://redux.js.org" target="_blank"> 
