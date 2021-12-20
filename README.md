@@ -346,7 +346,7 @@
     <a href="https://scikit-learn.org/stable/" target="_blank">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 </a>
-    <a href="https://scikit-learn.org/stable/" target="_blank">
+    <a href="https://scipy.org" target="_blank">
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy"/>
 </a>
     <a href="https://www.tableau.com/" target="_blank">
@@ -380,7 +380,7 @@
     <img src="" alt="AR Core"/>
 </a>
         <a href="" target="_blank">
-    <img src="" alt="Unity"/>
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </a>
         <a href="https://jquery.com/" target="_blank">
     <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
@@ -407,30 +407,35 @@
     <a href="https://www.gatsbyjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
   </a>
-    <a href="" target="_blank">
-    <img src="" alt="React Native"/>
+    <a href="https://www.apachefriends.org/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="ROS"/>
+    <a href="https://www.ros.org" target="_blank">
+    <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="Socket io"/>
+    <a href="https://socket.io" target="_blank">
+    <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket io"/>
       </a>  
     <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="reactjs"/> 
       </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="reactjs"/> 
+    <a href="https://learnopengl.com/Getting-started/OpenGL" target="_blank"> 
+    <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="OpenGL"/> 
       </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="reactjs"/> 
+    <a href="https://tailwindcss.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      alt="Tailwinds"/>
       </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="reactjs"/> 
+    <a href="https://www.npmjs.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
+      alt="npm "/> 
+      </a>
+     <a href="https://opencv.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> 
+      </a>
+    <a href="https://threejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js
       </a>
       
     </p>
