@@ -99,7 +99,16 @@
 
 
 
-
+<h3 align="center"> WorkSpace Spec:</h3>
+<p align="center"> 
+  <a href="https://ark.intel.com/content/www/us/en/ark/products/190883/intel-core-i59400f-processor-9m-cache-up-to-4-10-ghz.html" target="_blank">
+    <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Processor"/> 
+  </a>
+  <a href="https://www.nvidia.com/en-in/geforce/graphics-cards/gtx-1660-super/" target="_blank">
+    <img src="https://img.shields.io/badge/NVIDIA-GTX1660 Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Graphic Card"/> 
+  </a>
+</p>
+    
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
