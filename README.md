@@ -297,9 +297,9 @@
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
   </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
+    <a href="https://circleci.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"
+      alt="CircleCI"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
@@ -348,12 +348,27 @@
   </a>
    </p>
    
+   <h3 align="center">Server :</h3>
+    <p align="center"> 
+  <a href="https://www.apache.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt =apache/>
+  </a>
+    </a>
+<a href="https://www.jenkins.io/" target="_blank">
+    <img src="//img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkin server"/>
+</a>
+<a href="https://www.nginx.com/" target="_blank">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt=""/>
+</a>
+</p>
+   
    <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://www.adobe.com/in/creativecloud.html?sdid=SL4KMHQ2&mv=search&ef_id=Cj0KCQiA8ICOBhDmARIsAEGI6o2xmYicRbaUKRLs5APE3uslY6FG9sxpeiqjcCc7M_J5AKpF1YT_DdIaAmGqEALw_wcB:G:s&s_kwcid=AL!3085!3!473191825401!e!!g!!adobe%20creative%20cloud!221174708!17525769428" target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Cloud"/>
 </a>
-   <a href="https://www.figma.com/" target="_blank">
+  
+  <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </a>
     <a href="https://www.office.com/" target="_blank">
@@ -388,45 +403,6 @@
 </a>
 <a href="" target="_blank">
     <img src="" alt=""/>
-</a>
-<a href="" target="_blank">
-    <img src="" alt=""/>
-</a>
-<a href="" target="_blank">
-    <img src="" alt=""/>
-</a>
-<a href="" target="_blank">
-    <img src="" alt=""/>
-</a>
-<a href="" target="_blank">
-    <img src="" alt=""/>
-</a>href="" target="_blank">
-    <img src="" alt=""/>
-</a>
-    <a href="" target="_blank">
-    <img src="" alt=""/>
-</a>
-<a href="" target="_blank">
-    <img src="" alt=""/>
-</a>
-<a href="" target="_blank">
-    <img src="" alt=""/>
-</a>
-<a href="" target="_blank">
-    <img src="" alt=""/>
-</a>
-<a href="" target="_blank">
-    <img src="" alt=""/>
-</a>
-<a href="" target="_blank">
-    <img src="" alt=""/>
-</a>
-<a href="" target="_blank">
-    <img src="" alt=""/>
-</a>
-<a href="" target="_blank">
-    <img src="" alt=""/>
-</a>
 
 </p>
 
