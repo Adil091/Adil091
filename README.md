@@ -328,30 +328,28 @@
     <a href="https://www.javatpoint.com/dialogflow" target="_blank">
     <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" alt="DialogFlow"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="Keras"/>
+    <a href="https://keras.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
 </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
     </a>
       
-    <a href="" target="_blank">
-    <img src="" alt="Numpy"/>
+    <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="Pandas"/>
+    <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </a>
     <a href="" target="_blank">
     <img src="" alt="Matlab"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="PyTorch"/>
+    <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt=""/>
-</a>
-    <a href="" target="_blank">
-    <img src="" alt="Scikit-Learn"/>
+
+    <a href="https://scikit-learn.org/stable/" target="_blank">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 </a>
     <a href="" target="_blank">
     <img src="" alt="Scipy"/>
