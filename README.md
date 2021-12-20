@@ -174,9 +174,7 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
+  
   <a href="https://hibernate.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
   </a>
@@ -186,12 +184,8 @@
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
   </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
+  
+  
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
       alt="nginx"/> 
@@ -388,66 +382,59 @@
        <a href="https://redux.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
   </a>
-        <a href="" target="_blank">
-    <img src="" alt="Express"/>
-</a>    
-    <a href="" target="_blank">
-    <img src="" alt="Kubernets"/>
-</a>
-        <a href="" target="_blank">
-    <img src="" alt="Spring Boot"/>
-</a>
-    <a href="" target="_blank">
-    <img src="" alt="Graphql"/>
-</a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
+       <a href="https://expressjs.com" target="_blank">
+   <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="express" />
+  </a>
+    <a href="https://kubernetes.io" target="_blank"> 
+   <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  </a>
+       <a href="https://spring.io/projects/spring-boot" target="_blank">
+   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
+  </a>
+    <a href="https://graphql.org" target="_blank">
+    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+  </a>
+    <a href="https://webpack.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack"/>
   </a>
     <a href="https://www.gatsbyjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
   </a>
     <a href="https://www.apachefriends.org/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
-</a>
+  </a>
     <a href="https://www.ros.org" target="_blank">
     <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
-</a>
+  </a>
     <a href="https://socket.io" target="_blank">
     <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket io"/>
-      </a>  
+  </a>  
     <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="reactjs"/> 
-      </a>
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"alt="reactjs"/> 
+  </a>
     <a href="https://learnopengl.com/Getting-started/OpenGL" target="_blank"> 
     <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="OpenGL"/> 
-      </a>
+  </a>
     <a href="https://tailwindcss.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
-      alt="Tailwinds"/>
-      </a>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"alt="Tailwinds"/>
+  </a>
     <a href="https://www.npmjs.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
-      alt="npm "/> 
-      </a>
-     <a href="https://opencv.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"alt="npm "/> 
+  </a>
+    <a href="https://opencv.org" target="_blank"> 
     <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> 
-      </a>
+  </a>
     <a href="https://threejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js
-      </a>
-      
+    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+  </a> 
     </p>
-   
-   
-   
-   <h3 align="center">Server :</h3>
+                                                                                                                 
+      <h3 align="center">Server :</h3>
     <p align="center"> 
   <a href="https://www.apache.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt =apache/>
   </a>
-    </a>
+    
 <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkin server"/>
 </a>
@@ -458,7 +445,8 @@
    
    <h3 align="center">Tools</h3>
 <p align="center">
-  <a href="https://www.adobe.com/in/creativecloud.html?sdid=SL4KMHQ2&mv=search&ef_id=Cj0KCQiA8ICOBhDmARIsAEGI6o2xmYicRbaUKRLs5APE3uslY6FG9sxpeiqjcCc7M_J5AKpF1YT_DdIaAmGqEALw_wcB:G:s&s_kwcid=AL!3085!3!473191825401!e!!g!!adobe%20creative%20cloud!221174708!17525769428" target="_blank">
+    
+   <a href="https://www.adobe.com/creativecloud.html" target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe Cloud"/>
 </a>
   
