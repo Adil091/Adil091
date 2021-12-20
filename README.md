@@ -301,7 +301,7 @@
   </a>
 </p>
 
-<h3 align="center"> Preferred IDEs/Editors:</h3>
+<h3 align="center"> Preferred IDEs/Editors & Terminals:</h3>
     <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
@@ -317,6 +317,12 @@
   </a>
     <a href="https://www.vim.org" target="_blank"> 
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt= "VIM"/>
+  </a>
+    <a href="https://www.gnu.org/software/bash/manual/" target="_blank"> 
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt= "GNU"/>
+  </a>
+    <a href="https://fishshell.com/docs/2.2/tutorial.html" target="_blank"> 
+    <img src="https://img.shields.io/badge/fish-4AAE46?style=for-the-badge&logo=fish&logoColor=white" alt= "FISH"/>
   </a>
    </p>
 
