@@ -60,12 +60,9 @@
 |`Y`| |`G`|`A`|`M`|`E`|`R`| |`D`| | | | | |
 
 
-
 <hr>
-
 <i>Random dev joke for you! </i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
 <hr>
 
 ## Currently I'm :
@@ -279,12 +276,25 @@
   </a>
   <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
-      alt="virtualbox"/>
+      alt="virtualbox"/>   
   </a>
+    </p>
+    
+   <h3 align="center">Operating System :</h3>
+    <p align="center"> 
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
-</p>
+    <a href="https://www.android.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt= "Android"/>
+  </a>
+    <a href="https://www.apple.com/in/macos" target="_blank"> 
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt= "MacOS"/>
+  </a>
+    <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> 
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt= "Windows"/>
+  </a>
+   </p>
 
 
 
