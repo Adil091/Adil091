@@ -389,7 +389,7 @@
     <img src="" alt="Tabula"/>
 </a>
     <a href="" target="_blank">
-    <img src="" alt=""/>
+    <img src="" alt="Nodejs"/>
 </a>
     <a href="" target="_blank">
     <img src="" alt="Google Analytics"/>
@@ -425,13 +425,46 @@
     <img src="" alt="Redux"/>
 </a>
         <a href="" target="_blank">
-    <img src="" alt=""/>
-</a>    <a href="" target="_blank">
-    <img src="" alt=""/>
+    <img src="" alt="Express"/>
+</a>    
+    <a href="" target="_blank">
+    <img src="" alt="Kubernets"/>
 </a>
         <a href="" target="_blank">
+    <img src="" alt="Spring Boot"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Graphql"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Webpack"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Gatsbyis"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="React Native"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="ROS"/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt="Socket io"/>
+</a>
+    <a href="" target="_blank">
     <img src="" alt=""/>
 </a>
+    <a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+    <a href="" target="_blank">
+    <img src="" alt=""/>
+</a>
+    
+    
     </p>
    
    
