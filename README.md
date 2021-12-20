@@ -359,8 +359,8 @@
     <a href="https://www.office.com/" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
 </a>
-    <a href="" target="_blank">
-    <img src="" alt="Virtual Box"/>
+    <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Box"/>
 </a>
     <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/>
@@ -377,11 +377,11 @@
     <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </a>
-   <a href="" target="_blank">
-    <img src="" alt=""/>
+   <a href="https://www.raspberrypi.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Rasberry Pie"/>
 </a>
-<a href="" target="_blank">
-    <img src="" alt=""/>
+<a href="https://store.arduino.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
 </a>
 <a href="" target="_blank">
     <img src="" alt=""/>
