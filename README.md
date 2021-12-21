@@ -456,7 +456,26 @@
 # Connect with Me:
 
 <!-- My Portfolio: [https://tanaytoshniwal.me](https://tanaytoshniwal.me) -->
-
+    
+<a href="adilmulla091@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-Download%20My%20Resume-informational" alt="CV"/> 
+  </a>
+    <a href="adilmulla091@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
+  </a>
+    <a href="https://steamcommunity.com/profiles/76561198998310499/" target="_blank">
+    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/> 
+  </a>
+    <a href="adilmulla091@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-Download%20My%20Resume-informational" alt="PhonePe"/> 
+  </a>
+    <a href="adilmulla091@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-Download%20My%20Resume-informational" alt="LinkedIn"/> 
+  </a>
+    <a href="adilmulla091@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-Download%20My%20Resume-informational" alt="Dev.to"/> 
+  </a>
+    
 [<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://tanaytoshniwal.me) 
 
 [<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Ftanaytoshniwal.com-red" />](https://tanaytoshniwal.com) 
