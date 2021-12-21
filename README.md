@@ -460,7 +460,7 @@
 <a href="adilmulla091@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-Download%20My%20Resume-informational" alt="CV"/> 
   </a>
-    <a href="adilmulla091@gmail.com" target="_blank">
+    <a href="mailto:adilmulla091@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
   </a>
     <a href="https://steamcommunity.com/profiles/76561198998310499/" target="_blank">
