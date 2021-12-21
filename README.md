@@ -472,11 +472,11 @@
     <a href="adilmulla091@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-Download%20My%20Resume-informational" alt="PhonePe"/> 
   </a>
-    <a href="adilmulla091@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-Download%20My%20Resume-informational" alt="LinkedIn"/> 
+    <a href="https://www.linkedin.com/in/adilmulla091/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
   </a>
     <a href="adilmulla091@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-Download%20My%20Resume-informational" alt="Dev.to"/> 
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/> 
   </a>
     
 [<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://tanaytoshniwal.me) 
