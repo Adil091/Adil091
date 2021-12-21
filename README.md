@@ -456,9 +456,8 @@
 
 </p>
 
-# Connect with Me:
-
-<!-- My Portfolio: [https://tanaytoshniwal.me](https://tanaytoshniwal.me) -->
+<h3 align="center">Connet With </h3>
+<p align="center">
     
 <a href="adilmulla091@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-Download%20My%20Resume-informational" alt="CV"/> 
@@ -469,14 +468,21 @@
     <a href="https://steamcommunity.com/profiles/76561198998310499/" target="_blank">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/> 
   </a>
-    <a href="adilmulla091@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-Download%20My%20Resume-informational" alt="PhonePe"/> 
-  </a>
     <a href="https://www.linkedin.com/in/adilmulla091/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
   </a>
     <a href="https://dev.to/adil091">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/> 
+  </a>
+</p>
+
+<h3 align="center">Support Me </h3>
+<p align="center">
+<a href="adilmulla091@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white" alt="PhonePe"/> 
+  </a>
+    <a href="https://www.buymeacoffee.com/Adil091">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me Coffee"/> 
   </a>
     
 [<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://tanaytoshniwal.me) 
