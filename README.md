@@ -454,10 +454,10 @@
 </a>
 <a href="" target="_blank">
     <img src="" alt=""/>
-
 </p>
-
-<h3 align="center">Connet With </h3>
+    
+<hr>
+<h3 align="center">Connect With Me </h3>
 <p align="center">
     
 <a href="" >
@@ -477,13 +477,14 @@
   </a>
 </p>
 
+<hr>
 <h3 align="center">Support Me </h3>
 <p align="center">
     <a href="https://www.buymeacoffee.com/Adil091">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me Coffee"/> 
   </a>
     
-
+<hr>
 
 
 If you find the repo useful, show some love by giving a ⭐ on github repo
