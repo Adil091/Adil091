@@ -21,7 +21,7 @@
   
 <p align="left">
 <em>
-"HELLO WORLD",This is Me <b>Adil Mulla</b> a <i>CSE</><i> <b>graduate</b> from India </a> . A budding software devloper and a Competitve programming Enthusiast who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel</b>. I am passionate to give back to society by contributing  in open-source  that make a real diffrence in peoples life using my skills.    
+"HELLO WORLD",This is Me <b>Adil Mulla</b> a <i>CSE</><i> <b>graduate</b> from India </a> . A budding software developer and a Competitive programming Enthusiast who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants a <b>platform</b> to <b>grow</b> and <b>excel</b>. I am passionate to give back to society by contributing  in open-source  that make a real diffrence in peoples life using my skills.    
 </em> 
 <br>
 
