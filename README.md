@@ -108,6 +108,47 @@
     <img src="https://img.shields.io/badge/NVIDIA-GTX1660 Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Graphic Card"/> 
   </a>
 </p>
+
+ <h3 align="center">Operating System :</h3>
+    <p align="center"> 
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  </a>
+    <a href="https://www.android.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt= "Android"/>
+  </a>
+    <a href="https://www.apple.com/in/macos" target="_blank"> 
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt= "MacOS"/>
+  </a>
+    <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> 
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt= "Windows"/>
+  </a>
+   </p>
+   
+   <h3 align="center"> Preferred IDEs/Editors & Terminals:</h3>
+    <p align="center"> 
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+    <a href="https://developer.android.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt= "Android Studio"/>
+  </a>
+    <a href="https://www.anaconda.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt= "Anaconda"/>
+  </a>
+    <a href="https://www.sublimetext.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt= "Sublime Text"/>
+  </a>
+    <a href="https://www.vim.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt= "VIM"/>
+  </a>
+    <a href="https://www.gnu.org/software/bash/manual/" target="_blank"> 
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt= "GNU"/>
+  </a>
+    <a href="https://fishshell.com/docs/2.2/tutorial.html" target="_blank"> 
+    <img src="https://img.shields.io/badge/fish-4AAE46?style=for-the-badge&logo=fish&logoColor=white" alt= "FISH"/>
+  </a>
+   </p>
     
 <h3 align="center"> Programming languages:</h3>
  <p align="center"> 
@@ -168,127 +209,8 @@
   </a>
 
  </p>
-
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://www.tutorialspoint.com/mongodb/index.htm" target="_blank">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-  </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
-</p>
-
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <a href="https://docs.github.com/en/actions" target="_blank">
-    <img  src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Action"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  </a>
-    <a href="https://www.javatpoint.com/salesforce" target="_blank">
-    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="SalesForce"/>
-  </a>
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> 
-  </a> 
-     <a href="https://www.tutorialspoint.com/amazon_web_services/index.htm" target="_blank"> 
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> 
-  </a> 
-</p>
-
-<h3 align="center">Testing</h3>
-<p align="center"> 
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
-      alt="selenium" /> 
-  </a> 
-  <a href="https://junit.org/junit5/" target="_blank"> 
-    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
-  </a> 
-</p>
-
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
-  </a>
-    <a href="https://circleci.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"
-      alt="CircleCI"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a>
-</p>
-
-<h3 align="center"> Preferred IDEs/Editors & Terminals:</h3>
-    <p align="center"> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-    <a href="https://developer.android.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt= "Android Studio"/>
-  </a>
-    <a href="https://www.anaconda.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt= "Anaconda"/>
-  </a>
-    <a href="https://www.sublimetext.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt= "Sublime Text"/>
-  </a>
-    <a href="https://www.vim.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt= "VIM"/>
-  </a>
-    <a href="https://www.gnu.org/software/bash/manual/" target="_blank"> 
-    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt= "GNU"/>
-  </a>
-    <a href="https://fishshell.com/docs/2.2/tutorial.html" target="_blank"> 
-    <img src="https://img.shields.io/badge/fish-4AAE46?style=for-the-badge&logo=fish&logoColor=white" alt= "FISH"/>
-  </a>
-   </p>
-
-    
-   <h3 align="center">Operating System :</h3>
-    <p align="center"> 
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  </a>
-    <a href="https://www.android.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt= "Android"/>
-  </a>
-    <a href="https://www.apple.com/in/macos" target="_blank"> 
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt= "MacOS"/>
-  </a>
-    <a href="https://www.microsoft.com/en-in/windows?r=1" target="_blank"> 
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt= "Windows"/>
-  </a>
-   </p>
-   
-   
-   <h3 align="center">Frameworks, Platforms and Libraries :</h3>
+ 
+  <h3 align="center">Frameworks, Platforms and Libraries :</h3>
     <p align="center"> 
     
   <a href="https://www.tensorflow.org/" target="_blank"> 
@@ -394,8 +316,31 @@
     <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
   </a> 
     </p>
-                                                                                                                 
-  <h3 align="center">Server :</h3>
+                                                                                                              
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://www.tutorialspoint.com/mongodb/index.htm" target="_blank">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="postgresql"/> 
+  </a>
+  <a href="https://redis.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
+      alt="redis"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="sqlite"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongodb"/> 
+  </a> 
+</p>
+
+<h3 align="center">Server :</h3>
     <p align="center"> 
   <a href="https://www.apache.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt =apache/>
@@ -408,6 +353,60 @@
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt=""/>
 </a>
 </p>
+
+<h3 align="center">Cloud & Hosting:</h3>
+<p align="center">
+  <a href="https://docs.github.com/en/actions" target="_blank">
+    <img  src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Action"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
+    <a href="https://www.javatpoint.com/salesforce" target="_blank">
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="SalesForce"/>
+  </a>
+  <a href="https://heroku.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> 
+  </a> 
+     <a href="https://www.tutorialspoint.com/amazon_web_services/index.htm" target="_blank"> 
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> 
+  </a> 
+</p>
+
+<h3 align="center">Version Control & CI/CD</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://gitlab.com/Elanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="git"/>
+  </a>
+    <a href="https://circleci.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"
+      alt="CircleCI"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
+  </a>
+</p>
+
+<h3 align="center">Testing</h3>
+<p align="center"> 
+  <a href="https://www.selenium.dev" target="_blank"> 
+    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
+      alt="selenium" /> 
+  </a> 
+  <a href="https://junit.org/junit5/" target="_blank"> 
+    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
+  </a> 
+</p>
+
+  
    
    <h3 align="center">Tools</h3>
 <p align="center">
