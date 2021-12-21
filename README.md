@@ -3,7 +3,8 @@
 </p>
 
 <div align="center">
-<h2><img src="https://github.com/Adil091/Adil091/blob/main/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/><img src="https://github.com/Adil091/Adil091/blob/main/giphy.gif" width="18px">!</h2>
+<h2><img src="https://github.com/Adil091/Adil091/blob/main/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 
+    <img src="https://github.com/Adil091/Adil091/blob/main/giphy.gif" width="18px">!</h2>
 </div>
 
 
@@ -459,7 +460,7 @@
 <h3 align="center">Connet With </h3>
 <p align="center">
     
-<a href="adilmulla091@gmail.com" target="_blank">
+<a href="" >
     <img src="https://img.shields.io/badge/My%20CV-Download%20My%20Resume-informational" alt="CV"/> 
   </a>
     <a href="mailto:adilmulla091@gmail.com">
@@ -478,20 +479,11 @@
 
 <h3 align="center">Support Me </h3>
 <p align="center">
-<a href="adilmulla091@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white" alt="PhonePe"/> 
-  </a>
     <a href="https://www.buymeacoffee.com/Adil091">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me Coffee"/> 
   </a>
     
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Portfolio-https%3A%2F%2Ftanaytoshniwal.me-brightgreen" />](https://tanaytoshniwal.me) 
 
-[<img alt="portfolio link" src="https://img.shields.io/badge/My%20Blogs-https%3A%2F%2Ftanaytoshniwal.com-red" />](https://tanaytoshniwal.com) 
-
-[<img alt="resume link" src="https://img.shields.io/badge/My%20CV-Download%20my%20Resume-blue" />](https://tanaytoshniwal.me/assets/tanay-toshniwal-resume.pdf)
-
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-tanaytoshniwal98%40gmail.me-orange" />](mailto:tanaytoshniwal98@gmail.me) 
 
 
 If you find the repo useful, show some love by giving a ⭐ on github repo
