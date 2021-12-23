@@ -66,7 +66,13 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 <hr>
 
-## Currently I'm :
+<h2 align="left"><u>My 📕 Latest Blog Posts</u></h2> 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<hr>
+<h2 align="left"><u> Currently I'm :</u></h2> 
 
 - Working on several AR/ML projects
 - Competitve Programming in Python and C++
