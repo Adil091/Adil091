@@ -2,11 +2,11 @@
   <img src="https://github.com/Adil091/Adil_91/blob/main/readme%20upper.png" height="200"/>
 </p>
 
-<div align="center">
-<h2><img src="https://github.com/Adil091/Adil091/blob/main/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 
-    <img src="https://github.com/Adil091/Adil091/blob/main/giphy.gif" width="18px">!</h2>
-</div>
 
+<div align="center">
+<h2><img src="" width=""> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 
+    <img src="" width="">!</h2>
+</div>
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-Adil091&label=Profile+Views)
