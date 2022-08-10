@@ -39,6 +39,27 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adil091&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=Adil091&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 |---|---|
 
+<hr>
+
+|M|Y|💚|H|O|B|B|I|E|S|:|
+| - | - | - | - | - | - | - | - | - | - | - |
+| | | | | | | |`P`| | | | | | | | | | | |
+| | | | |`F`|`I`|`N`|`A`|`N`|`C`|`E`| | | |
+| | | | | | | |`I`| | | | | |
+| | | | | | | |`N`| | | | | | |
+| | |`A`|`D`|`V`|`E`|`N`|`T`|`U`|`R`|`E`| | | |
+| | | |`E`| |`N`| | | | | | | | |
+| | | |`S`| |`T`|`R`|`A`|`V`|`E`|`L`| | | |
+|`P`| | |`G`||`R`| | | | | | | | |
+|`H`| | |`I`| |`E`| | | | | |`C`|| |
+|`Y`| | |`N`||`P`| | | | | | | | |
+|`C`|`O`|`D`|`E`| |`R`| | | | | |`D`|`Y`| |
+|`O`| | | | |`E`| | | | | |`E`| | |
+|`L`| | | | |`N`| | |`R`| | | | | |
+|`O`| | | |`P`|`U`|`Z`|`Z`|`E`|`L`| | | | |
+|`G`|`Y`|`M`| | |`R`| | |`A`| | | | | |
+|`Y`| |`G`|`A`|`M`|`E`|`R`| |`D`| | | | | |
+
 
 
 <hr>
