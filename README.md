@@ -157,7 +157,7 @@
   </a>
    </p>
     
-<h3 align="center"> Programming languages:</h3>
+<h3 align="center"> Programming / Markup languages:</h3>
  <p align="center"> 
   <a href="https://www.learn-c.org" target="_blank">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
