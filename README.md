@@ -462,7 +462,9 @@
   <a href="https://www.hackerearth.com/@adilmulla091" >
     <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="HackerEarth"/> 
   </a>
-    
+    <a href="https://www.behance.net/adilmulla" >
+    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/> 
+  </a>
 <hr>
 <h3 align="center">Connect With Me </h3>
 <p align="center">
