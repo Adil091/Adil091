@@ -67,14 +67,7 @@
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
-| _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.             |
-| _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 64 website templates.     |
-| _[YT-Downloader](https://github.com/KasRoudra/YT-Downloader)_                  | Download youtube audio or videos from command line.             |
-| _[MusPlayer](https://github.com/KasRoudra/MusPlayer)_                         | Play music in termux by mpv.                                     |
-| _[Messenger-Desktop](https://github.com/KasRoudra/messengerdesktop)_           |  Messenger in desktop mode for easy file sharing.                |
-| _[K-Fuscator](https://github.com/KasRoudra/k-fuscator)_                       | Encrypt or decrypt shell script and compile python scripts       |
-| _[CamHacker](https://github.com/KasRoudra/CamHacker)_                         | Hack anyone's camera with a phishing link.                       |
-| _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_               | Expose locally hosted website into all over internet.            |
+
 
 <hr>
 
@@ -134,9 +127,6 @@
     <a href="https://www.gnu.org/software/bash/manual/" target="_blank"> 
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt= "GNU"/>
   </a>
-    <a href="https://fishshell.com/docs/2.2/tutorial.html" target="_blank"> 
-    <img src="https://img.shields.io/badge/fish-4AAE46?style=for-the-badge&logo=fish&logoColor=white" alt= "FISH"/>
-  </a>
    </p>
     
 <h3 align="center"> Programming / Markup languages:</h3>
@@ -153,25 +143,11 @@
 <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS(STYLE SHEET)"/> 
   </a>
-<a href="https://dart.dev/tutorials" target="_blank">
-    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> 
-  </a>
-<a href="https://www.tutorialspoint.com/go/index.htm" target="_blank">
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> 
-  </a>
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML MARKUP"/> 
   </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  </a>
-    <a href="https://www.javatpoint.com/java-tutorial" target="_blank"> 
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
-  </a>
-
-<a href="https://www.programiz.com/kotlin-programming" target="_blank">
-    <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/> 
-  </a>
 
 <a href="https://www.tutorialspoint.com/python/index.htm" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt=" Python"/> 
@@ -179,10 +155,6 @@
 
 <a href="https://www.javatpoint.com/r-tutorial" target="_blank">
     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/> 
-  </a>
-
-<a href="https://www.rust-lang.org/learn" target="_blank">
-    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/> 
   </a>
 
 <a href="https://www.w3schools.com/sass/" target="_blank">
@@ -240,15 +212,9 @@
 </a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-</a>
-    <a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter"/>
-</a>
+       
     <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</a>
-    <a href="https://angularjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Anjular.js"/>
 </a>
    <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
@@ -368,8 +334,7 @@
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   </a>
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
