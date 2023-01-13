@@ -212,7 +212,7 @@
 </a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-       
+   </a>
     <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </a>
