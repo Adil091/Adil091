@@ -23,10 +23,9 @@
 <p align="left">
 <em>
 "HELLO WORLD",This is Me <b>Adil Mulla</b> a <i>CSE</><i> <b>graduate</b> from India </a> . As a budding Software Enginner  with a passion for open source and a Competitive programming Enthusiast.
-   
-In addition to my work as a software engineer, I am also an active open source contributor. I believe in the power of open source to drive innovation and collaboration, and I am committed to contributing my skills and knowledge to the open-source community  that make a real diffrence in peoples life. 
-I am always seeking new challenges and opportunities to learn and grow as a software engineer and open source contributor. 
-   
+In addition to my work as a software engineer, I am also an active open source contributor. I believe in the power of open source to drive innovation and collaboration, and I am committed to contributing my skills and knowledge to the open-source community  that make a real diffrence in peoples life.
+I am always seeking new challenges and opportunities to learn and grow as a software engineer and open source contributor.</br>
+
 If you're looking for a skilled and dedicated developer to work on your project, feel free to reach out to me on GitHub.
 </em> 
 <br>
