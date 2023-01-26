@@ -30,16 +30,13 @@ If you're looking for a skilled and dedicated developer to work on your project,
 </em> 
 <br>
 
-  
 <hr>
 <h2>Repositories Statastics</h2>
 <p align="center">
-    
-![Metrics](https://metrics.lecoq.io/Adil091?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=halfyear&languages.limit=8&languages.sections=mostused&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
-
-</p>
-
-
+   
+   ![Metrics](https://metrics.lecoq.io/Adil091?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
+   
+   </p>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adil091&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">|<img src="https://github-readme-streak-stats.herokuapp.com?user=Adil091&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 |---|---|
 
