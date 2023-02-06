@@ -395,8 +395,7 @@ I am always seeking new challenges and opportunities to learn and grow as a soft
     
 <hr>
 
-
-If you find the repo useful, show some love by giving a ⭐ on github repo
+Finally, I would like to extend a special thank you to anyone who takes the time to view my GitHub profile. Your support means the world to me, and I am grateful for the opportunity to share my work with you. If you enjoy what you see, please don't forget to "⭐" my profile. Your support will help me reach a wider audience and allow me to continue to create amazing projects in the future.
 
 Credits: [Adil T Mulla](https://github.com/Adil091)
 
