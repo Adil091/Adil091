@@ -26,7 +26,7 @@
 In addition to my work as a software engineer, I am also an active open source contributor. I believe in the power of open source to drive innovation and collaboration, and I am committed to contributing my skills and knowledge to the open-source community  that make a real diffrence in peoples life.
 I am always seeking new challenges and opportunities to learn and grow as a software engineer and open source contributor.</br>
 
-If you're looking for a skilled and dedicated developer to work on your project, feel free to reach out to me on GitHub.
+:star2:If you're looking for a skilled and dedicated developer to work on your project, feel free to reach out to me on GitHub.
 </em> 
 <br>
 
