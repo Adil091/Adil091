@@ -47,11 +47,11 @@ I am always seeking new challenges and opportunities to learn and grow as a soft
 <h2 align="left"><u>My 📕 Latest Blog Posts</u></h2> 
 
 <!-- BLOG-POST-LIST:START -->
+- [🎯VS Code Editor Shortcuts So Good, They’ll Make Your Mouse Jealous 🖱️💔](https://dev.to/sudo_091/vs-code-editor-shortcuts-so-good-theyll-make-your-mouse-jealous-42c5)
 - [Master VS Code Terminal Shortcuts and Finally Impress Your Cat &lpar;and Your Boss&rpar; 🐱💼](https://dev.to/sudo_091/master-vs-code-terminal-shortcuts-and-finally-impress-your-cat-and-your-boss-4ed)
 - [👩‍💻 When VS Code Becomes Your Side Chick: Shortcuts You’ll Actually Use! 🔥](https://dev.to/sudo_091/when-vs-code-becomes-your-side-chick-shortcuts-youll-actually-use-4m4d)
 - [🎯 VS Code Hacks You’ll Wish You Knew Earlier &lpar;Or Maybe Not, Depending on Your Life Choices&rpar; 💻✨](https://dev.to/sudo_091/vs-code-hacks-youll-wish-you-knew-earlier-or-maybe-not-depending-on-your-life-choices-3olb)
 - [Ctrl Yourself! VS Code Shortcuts🎛️](https://dev.to/sudo_091/ctrl-yourself-vs-code-shortcuts-4lbn)
-- [🎯 Essential VS Code Shortcuts Every Programmer Needs &lpar;Because Life is Short, and So Are Deadlines&rpar; 💻🚀](https://dev.to/sudo_091/essential-vs-code-shortcuts-every-programmer-needs-because-life-is-short-and-so-are-deadlines-30ek)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
