@@ -47,11 +47,11 @@ I am always seeking new challenges and opportunities to learn and grow as a soft
 <h2 align="left"><u>My 📕 Latest Blog Posts</u></h2> 
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Portfolio = Your OnlyFans for Recruiters. Make It Hot, Not a Turn-Off! 🥵💻](https://dev.to/sudo_091/your-portfolio-your-onlyfans-for-recruiters-make-it-hot-not-a-turn-off-1ja0)
 - [VS Code Hacks to Save You Time ⏳✨ &lpar;Because Real Wizards 🧙‍♀️ Don’t Use Mice 🐭🚫&rpar;](https://dev.to/sudo_091/vs-code-hacks-to-save-you-time-because-real-wizards-dont-use-mice--1oo2)
 - [🎯VS Code Editor Shortcuts So Good, They’ll Make Your Mouse Jealous 🖱️💔](https://dev.to/sudo_091/vs-code-editor-shortcuts-so-good-theyll-make-your-mouse-jealous-42c5)
 - [Master VS Code Terminal Shortcuts and Finally Impress Your Cat &lpar;and Your Boss&rpar; 🐱💼](https://dev.to/sudo_091/master-vs-code-terminal-shortcuts-and-finally-impress-your-cat-and-your-boss-4ed)
 - [👩‍💻 When VS Code Becomes Your Side Chick: Shortcuts You’ll Actually Use! 🔥](https://dev.to/sudo_091/when-vs-code-becomes-your-side-chick-shortcuts-youll-actually-use-4m4d)
-- [🎯 VS Code Hacks You’ll Wish You Knew Earlier &lpar;Or Maybe Not, Depending on Your Life Choices&rpar; 💻✨](https://dev.to/sudo_091/vs-code-hacks-youll-wish-you-knew-earlier-or-maybe-not-depending-on-your-life-choices-3olb)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
