@@ -44,17 +44,7 @@ I am always seeking new challenges and opportunities to learn and grow as a soft
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 <hr>
 
-<h2 align="left"><u>My 📕 Latest Blog Posts</u></h2> 
 
-<!-- BLOG-POST-LIST:START -->
-- [💅 💔 100 Days CSS in 10 Days — Because Who Needs a Girlfriend When You Have border-radius?](https://dev.to/sudo_091/100-days-css-in-10-days-because-who-needs-a-girlfriend-when-you-have-border-radius-49d0)
-- [Your Portfolio = Your OnlyFans for Recruiters. Make It Hot, Not a Turn-Off! 🥵💻](https://dev.to/sudo_091/your-portfolio-your-onlyfans-for-recruiters-make-it-hot-not-a-turn-off-1ja0)
-- [VS Code Hacks to Save You Time ⏳✨ &lpar;Because Real Wizards 🧙‍♀️ Don’t Use Mice 🐭🚫&rpar;](https://dev.to/sudo_091/vs-code-hacks-to-save-you-time-because-real-wizards-dont-use-mice--1oo2)
-- [🎯VS Code Editor Shortcuts So Good, They’ll Make Your Mouse Jealous 🖱️💔](https://dev.to/sudo_091/vs-code-editor-shortcuts-so-good-theyll-make-your-mouse-jealous-42c5)
-- [Master VS Code Terminal Shortcuts and Finally Impress Your Cat &lpar;and Your Boss&rpar; 🐱💼](https://dev.to/sudo_091/master-vs-code-terminal-shortcuts-and-finally-impress-your-cat-and-your-boss-4ed)
-<!-- BLOG-POST-LIST:END -->
-
-<hr>
 <h2 align="left"><u> Currently I'm :</u></h2> 
 
 - Working on several AR/ML projects
