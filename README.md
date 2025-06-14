@@ -45,23 +45,6 @@ I am always seeking new challenges and opportunities to learn and grow as a soft
 <hr>
 
 
-<h2 align="left"><u> Currently I'm :</u></h2> 
-
-- Working on several AR/ML projects
-- Competitve Programming in Python and C++
-- Starting UI/UX
-- Learning Blockchain
-
-<hr>
-
-<h2 align="center"><u>My Best Works</u></h2>
-
-| Name                  | Description                                                |
-| ---------------------------------|--------------------------------------------------------------- |
-
-
-<hr>
-
 <h2 align="left"><u>My Achivements🏆</u></h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adil091)](https://github.com/ryo-ma/github-profile-trophy)
